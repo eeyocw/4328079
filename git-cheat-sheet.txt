@@ -1,0 +1,5 @@
+Git Show - shows all the different object and the modifications madex
+git Log - shows the commit logs
+git Checkout - enbales you to back in time where you can: disguard changes to files before they are committed; checking a previous version of a file
+git init - Create/reinitialize a git repository. A repository is a directory (folder) with a .git subdirectory
+git reset - moves the HEAD to a specific state (undoes a staging operation)
